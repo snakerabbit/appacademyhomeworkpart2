@@ -10,7 +10,9 @@ class Calculator extends React.Component{
     }
   }
 
-  //your code here
+  setNum1(e) {
+
+  }
 
   render(){
     return (
